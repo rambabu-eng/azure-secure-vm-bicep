@@ -1,0 +1,1 @@
+Secure vm by using bicep
