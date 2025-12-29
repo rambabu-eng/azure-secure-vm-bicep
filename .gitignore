@@ -1,0 +1,4 @@
+# Bicep / deployment artifacts
+*.parameters*.json
+*.tfstate
+*.log
